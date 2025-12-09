@@ -3,6 +3,7 @@
     A full-stack To-Do List application where users can create, update, delete, and manage personal tasks. This project demonstrates a complete MERN-based CRUD system with secure authentication, REST APIs, and a responsive UI.
 
 🚀 Features
+
   🔐 User Authentication
 
     User Registration & Login
